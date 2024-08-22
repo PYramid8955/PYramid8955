@@ -13,6 +13,8 @@
 
 - 👨‍🎓 Academic Status: **University Student at IT Engineering**
 
+- ❗ Please note that **I didn't upload all my past projects on github, and a lot of my projects are Private (I want to finish them before showing them to the public, but I am a perfectionist and I still didn't finish any of them).**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/pyramid8955" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pyramid8955" height="30" width="40" /></a>
